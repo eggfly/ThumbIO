@@ -1,10 +1,10 @@
-# Thumb 32U4 文档
+# ThumbIO文档
 
 感谢您支持我的业余项目，请仔细阅读以下文档，如果有更多的问题可以用下面二维码加我的微信（添加时备注硬件爱好者），我拉进开发群一起交流，互相学习。
 
 <div align="center"><img src="arduino_images/my_qr.jpg" width="30%" height="30%" /></div>
 
-## Thumb 32U4 简介
+## ThumbIO简介
 
 <div align="center"><img src="images/thumb.jpg" width="20%" height="20%" /><img src="images/thumb2.jpg" width="20%" height="20%" /><img src="images/thumb4.jpg" width="20%" height="20%" /><img src="images/thumb3.jpg" width="35%" height="35%" /></div>
 
