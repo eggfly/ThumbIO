@@ -20,7 +20,7 @@
 ## Arduino环境搭建和固件编译
 
 - **下载Arduino:** http://www.arduino.cc
-- Board选择Arduino Leonard
+- Board选择Arduino Leonardo
 
 
 
